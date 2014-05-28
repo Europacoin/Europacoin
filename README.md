@@ -1,9 +1,9 @@
 # Europacoin [EUROPACOIN]
-http://europacoin.com/
+http://europacoin.org/
 
 ## What is Europacoin? -
-Europacoin is like Bitcoin, but based on Litecoin, and also much more wow.
-http://Europacoin.com/
+Europacoin is like Bitcoin, but based on Litecoin, and also much more.
+http://Europacoin.org/
 
 ## License -
 europacoin is released under the terms of the MIT license. See [COPYING](COPYING)
@@ -28,6 +28,6 @@ Total of 1,500,000,000
 
 ###  ports
 RPC 38995
-P2P 38995
+P2P 38996
 
 ![](http://europacoin.org/uploads/3/4/4/5/3445313/1394481423.png)
